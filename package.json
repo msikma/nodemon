@@ -1,5 +1,6 @@
 {
   "name": "nodemon-msikma",
+  "version": "1.11.0-pr1077",
   "homepage": "http://nodemon.io",
   "author": {
     "name": "Remy Sharp",
@@ -13,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/remy/nodemon.git"
+    "url": "https://github.com/msikma/nodemon.git"
   },
   "description": "Simple monitor script for use during development of a node.js app.",
   "keywords": [
